@@ -1,0 +1,18 @@
+
+ E-junkie Project
+ Proje Başlığı :
+ https://e-junkie.com/wiki/demo/ environment’larının bazı fonksiyonlarının test edilmesi.
+
+Proje Açıklaması:
+Bu proje,daha önce hotfix edilmiş olan E-Junkie environment'ının da bazı
+fonksiyonlarının test edilmesini içerir.E-Junkie environment'ının işlevselliğinin kontrol edilmesi hedeflenir.
+
+E-Junkie Environment Testi:
+- Müşterinin talebiyle, E-Junkie environment'ı, önceki hotfix'lerin test edilmesi için
+yeniden gözden geçirilecektir.
+- Toplam 7 user story proje backlog'unda bulunmaktadır.
+- Bu sprintte müşteri için acil olan sadece iki hikaye, yani US-EJ02 ve US-EJ04,
+sprinte dahil edilecektir. Diğer E-Junkie hikayeleri bu sprinte alınmayacaktır.
+- Kredi kartı ile ödeme yaparken oluşan hataları test etmek ve sonuçları
+doğrulamak.
+- Ödeme sonrası onay mesajını doğrulamak.
